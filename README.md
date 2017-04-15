@@ -29,7 +29,7 @@ https://github.com/YOUR-USERNAME/YOUR-REPOSITORY/settings
 
 *Project page needs to be set up in Setting > GitHub Pages*
 
-### ['hello-world' project page - vanderlyle.github.io/hello-world/](https://vanderlyle.github.io/hello-world/)
+### [project page - vanderlyle.github.io/hello-world/](https://vanderlyle.github.io/hello-world/)
 
 ---
 

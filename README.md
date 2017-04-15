@@ -16,3 +16,5 @@ This just for testing
 [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 [**Mastering Markdown**](https://guides.github.com/features/mastering-markdown/)
+
+[*another markdown cheatsheet*](https://www.reddit.com/r/reddit.com/comments/6ewgt/reddit_markdown_primer_or_how_do_you_do_all_that/)

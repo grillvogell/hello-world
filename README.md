@@ -27,7 +27,7 @@ https://github.com/YOUR-USERNAME/YOUR-REPOSITORY/settings
 
 ### [personal page - vanderlyle.github.io](https://vanderlyle.github.io "Testpage - vanderlyle.github.io")
 
-*Personal page needs to be set up in Setting > GitHub Pages*
+*Project page needs to be set up in Setting > GitHub Pages*
 
 ### ['hello-world' project page - vanderlyle.github.io/hello-world/](https://vanderlyle.github.io/hello-world/)
 

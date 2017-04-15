@@ -1,9 +1,8 @@
 # hello-world
-Just another repository
 
 ---
 
-This is all testing
+This just for testing
 
 1. first
 2. second
@@ -15,3 +14,5 @@ This is all testing
 ### [Link to test page](https://vanderlyle.github.io "Testpage - vanderlyle.github.io")
 
 [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+[**Mastering Markdown**](https://guides.github.com/features/mastering-markdown/)

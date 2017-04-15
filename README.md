@@ -15,7 +15,7 @@ This just for testing
 
 1. Manually enter the URL for your repository's Settings page in your browser:
 ```
-https://github.com/**YOUR-USERNAME**/**YOUR-REPOSITORY**/settings
+https://github.com/YOUR-USERNAME/YOUR-REPOSITORY/settings
 ```
 2. Under Danger Zone, click Delete this repository.
 

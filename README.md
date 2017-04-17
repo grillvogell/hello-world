@@ -31,6 +31,9 @@ https://github.com/YOUR-USERNAME/YOUR-REPOSITORY/settings
 
 ### [project page - vanderlyle.github.io/hello-world/](https://vanderlyle.github.io/hello-world/)
 
+1. [![](https://img.shields.io/badge/shields.io-link-blue.svg)](https://shields.io/)
+2. [Octicons](https://octicons.github.com/)
+
 ---
 
 [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
